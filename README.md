@@ -1,7 +1,7 @@
 ## Description
 
 - This project, fetch a price list from a site, parse the data and store in to the database. it updates daily by cronJob.
-In front-end, data is listed and able to modify using Ajax.
+In front-end, data is listed and able to modify order count using Ajax.
 
 - The PHP version is 7.1.
 
