@@ -1,1 +1,1 @@
-*/0 10 * * * /usr/bin/php -q /home/user/backend_test/cron/get_price_data.php > /dev/null 2>&1
+*/0 10 * * * /usr/bin/php -q /home/user/get_prices/cron/get_price_data.php > /dev/null 2>&1
