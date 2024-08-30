@@ -18,7 +18,7 @@ class Database
         $this->servername = 'localhost';
         $this->username = 'root';
         $this->password = '';
-        $this->dbname = 'backend_test';
+        $this->dbname = 'get_prices';
     }
 
     /**
