@@ -1,10 +1,10 @@
 
 
 --
--- Database: `backend_test`
+-- Database: `get_prices`
 --
-CREATE DATABASE IF NOT EXISTS `backend_test` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `backend_test`;
+CREATE DATABASE IF NOT EXISTS `get_prices` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `get_prices`;
 
 -- --------------------------------------------------------
 --
